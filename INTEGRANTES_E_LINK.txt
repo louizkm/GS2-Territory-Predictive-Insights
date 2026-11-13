@@ -1,0 +1,8 @@
+GLOBAL SOLUTION 2º/2026 — OOP — TURMA DE FEVEREIRO
+Tema do projeto: CitizenTech / Clima local e risco de alagamento (CONFIRMAR)
+
+Integrante 1: [Luiz Miguel Martin Crocco] — RM562796
+Integrante 2: [Murilo Justino Arcanjo] — RM565470
+Integrante 3: [Enzo Hideki] — RM565052
+
+Repositório GitHub: [LINK_GITHUB_DA_EQUIPE]

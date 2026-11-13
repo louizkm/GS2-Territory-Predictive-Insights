@@ -7,7 +7,7 @@
 
 ## Integrantes (preencher antes da entrega)
 
-| Nome completo | RM | Responsabilidade | Link do GitHub/perfil |
+| Nome completo | RM | Responsabilidade | 
 |---|---|---|---|
 | [Luiz Miguel Martin Crocco] | [RM562796] | Domínio e exceções |
 | [Murilo Justino Arcanjo] | [RM565470] | Persistência JDBC/H2 |
